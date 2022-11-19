@@ -1,0 +1,2294 @@
+## Footprint report - date 2022 November 18, Friday 01:21:06
+## Created by Pcbnew version (6.0.4-0)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 94.589600 54.711600
+lower_right_corner 207.467200 169.418000
+$EndBOARD
+
+$MODULE @HOLE0
+footprint 
+attribut virtual
+position 121.984596 131.520104  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499990  2.499990  orientation 0.00
+drill  2.499990
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  @HOLE0
+
+$MODULE @HOLE1
+footprint 
+attribut virtual
+position 175.017603 78.487097  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500009  2.500009  orientation 0.00
+drill  2.500009
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  @HOLE1
+
+$MODULE @HOLE2
+footprint 
+attribut virtual
+position 175.017603 131.520104  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500009  2.500009  orientation 0.00
+drill  2.500009
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  @HOLE2
+
+$MODULE @HOLE3
+footprint 
+attribut virtual
+position 121.984596 78.487097  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499990  2.499990  orientation 0.00
+drill  2.499990
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  @HOLE3
+
+$MODULE BLUE0
+footprint iO_Atletehe_rev1:LED-0603
+attribut virtual
+position 185.001100 92.503600  orientation 112.50
+layer front
+$PAD "A"
+Shape Roundrect Layer front
+position -0.877000  0.000000  size  1.000000  1.000000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C"
+Shape Roundrect Layer front
+position  0.877000  0.000000  size  1.000000  1.000000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BLUE0
+
+$MODULE BT2
+footprint iO_Atletehe_rev1:LIPO-1100MAH
+attribut virtual
+position 148.471100 100.403600  orientation 180.00
+layer back
+$PAD "+"
+Shape Circle Layer both
+position -5.000000 32.000000  size  2.540000  2.540000  orientation 0.00
+drill  1.397000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "-"
+Shape Circle Layer both
+position  5.000000 32.000000  size  2.540000  2.540000  orientation 0.00
+drill  1.397000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  BT2
+
+$MODULE C1
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 165.501100 120.003600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE C2
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 139.081100 100.993600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE C3
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 143.501100 114.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE C4
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 157.501100 83.503600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE C5
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 157.501100 122.503600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE C6
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 142.501100 122.003600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE C7
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 139.501100 119.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE C8
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 129.501100 116.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE C9
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 153.001100 108.003600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE C10
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 152.001100 104.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE C11
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 136.501100 97.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C11
+
+$MODULE C12
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 141.501100 97.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C12
+
+$MODULE C13
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 139.001100 97.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C13
+
+$MODULE D1
+footprint iO_Atletehe_rev1:DIOM5127X229N
+attribut virtual
+position 145.501100 123.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.050000  0.000000  size  2.200000  1.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.050000  0.000000  size  2.200000  1.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE D2
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 148.501100 75.003600  orientation 90.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE D3
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 160.751100 77.503600  orientation 67.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE D4
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 169.751100 83.753600  orientation 45.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE D5
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 176.001100 93.003600  orientation 22.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE D6
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 178.501100 105.003600  orientation 0.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE D7
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 176.001100 117.003600  orientation -22.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D7
+
+$MODULE D8
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 169.751100 126.253600  orientation -45.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D8
+
+$MODULE D9
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 160.501100 132.503600  orientation -67.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D9
+
+$MODULE D10
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 148.501100 135.003600  orientation -90.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D10
+
+$MODULE D11
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 136.501100 132.503600  orientation -112.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D11
+
+$MODULE D12
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 127.251100 126.253600  orientation -135.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D12
+
+$MODULE D13
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 121.001100 117.003600  orientation -157.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 360.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D13
+
+$MODULE D14
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 118.501100 105.003600  orientation 180.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D14
+
+$MODULE D15
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 121.001100 93.003600  orientation 157.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D15
+
+$MODULE D16
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 127.251100 83.753600  orientation 135.00
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D16
+
+$MODULE D17
+footprint iO_Atletehe_rev1:LED_5MM
+attribut virtual
+position 136.501100 77.503600  orientation 112.50
+layer front
+$PAD "A"
+Shape Circle Layer both
+position -1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "K"
+Shape Circle Layer both
+position  1.270000  0.000000  size  1.879600  1.879600  orientation 0.00
+drill  0.812800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D17
+
+$MODULE GREEN0
+footprint iO_Atletehe_rev1:LED-0603
+attribut virtual
+position 182.501100 123.003600  orientation -112.50
+layer front
+$PAD "A"
+Shape Roundrect Layer front
+position -0.877000  0.000000  size  1.000000  1.000000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C"
+Shape Roundrect Layer front
+position  0.877000  0.000000  size  1.000000  1.000000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  GREEN0
+
+$MODULE IC1
+footprint iO_Atletehe_rev1:SOIC127P600X175-9N
+attribut virtual
+position 165.671100 114.523600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.712000 -1.905000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.712000 -0.635000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -2.712000  0.635000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -2.712000  1.905000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  2.712000  1.905000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  2.712000  0.635000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position  2.712000 -0.635000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position  2.712000 -1.905000  size  1.525000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position  0.000000  0.000000  size  3.402000  2.513000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC1
+
+$MODULE IC2
+footprint iO_Atletehe_rev1:SOT95P280X145-6N
+attribut virtual
+position 157.361100 96.063600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -1.250000 -0.950000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.250000  0.000000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -1.250000  0.950000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  1.250000  0.950000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  1.250000  0.000000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  1.250000 -0.950000  size  1.200000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC2
+
+$MODULE IC3
+footprint iO_Atletehe_rev1:TCRT5000L
+attribut virtual
+position 133.001100 105.003600  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -4.650000  2.450000  size  1.000000  1.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000 -1.900000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  1.900000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -2.750000 -1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.750000  1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.750000  1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position  2.750000 -1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC3
+
+$MODULE IC4
+footprint iO_Atletehe_rev1:TCRT5000L
+attribut virtual
+position 164.001100 105.003600  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  1.900000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -4.650000  2.450000  size  1.000000  1.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000 -1.900000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -2.750000 -1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -2.750000  1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.750000  1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position  2.750000 -1.270000  size  1.550000  1.550000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC4
+
+$MODULE J1
+footprint iO_Atletehe_rev1:USB-B-MICRO-SMD
+attribut virtual
+position 148.501100 142.753600  orientation 90.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position  2.200000 -1.900000  size  0.850000  0.850000  orientation 0.00
+drill  0.850000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.200000  1.900000  size  0.850000  0.850000  orientation 0.00
+drill  0.850000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D+"
+Shape Rect Layer back
+position  2.725000  0.000000  size  0.400000  1.450000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D-"
+Shape Rect Layer back
+position  2.725000  0.650000  size  0.400000  1.450000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "GND"
+Shape Rect Layer back
+position  2.725000 -1.300000  size  0.400000  1.450000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "ID"
+Shape Rect Layer back
+position  2.725000 -0.650000  size  0.400000  1.450000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "SHIELD1"
+Shape Rect Layer back
+position  0.000000  3.685000  size  1.800000  1.500000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "SHIELD2"
+Shape Rect Layer back
+position  0.000000 -3.685000  size  1.800000  1.500000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "SHIELD3"
+Shape Rect Layer back
+position  0.000000  0.000000  size  2.500000  1.500000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "VBUS"
+Shape Rect Layer back
+position  2.725000  1.300000  size  0.400000  1.450000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE J2
+footprint iO_Atletehe_rev1:1X06-KIT
+attribut virtual
+position 131.501100 96.503600  orientation 45.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position  7.620000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Circle Layer both
+position 10.160000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Circle Layer both
+position 12.700000  0.000000  size  1.879600  1.879600  orientation 90.00
+drill  1.016000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE J3
+footprint kicad_footprints_sb:AVR-ISP-6
+attribut none
+position 166.827200 93.573600  orientation 0.00
+layer front
+$PAD "1"
+Shape Oval Layer front
+position  0.000000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.540000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Oval Layer front
+position  0.000000  2.540000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Oval Layer front
+position  2.540000  2.540000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Oval Layer front
+position  0.000000  5.080000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Oval Layer front
+position  2.540000  5.080000  size  1.600000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$MODULE L2
+footprint iO_Atletehe_rev1:SRN6045
+attribut virtual
+position 152.501100 123.503600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.175000  0.000000  size  6.000000  2.500000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.125000  0.000000  size  6.000000  2.500000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L2
+
+$MODULE Q1
+footprint iO_Atletehe_rev1:SOP65P640X120-8N
+attribut virtual
+position 157.361100 89.403600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.938000 -0.975000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.938000 -0.325000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -2.938000  0.325000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -2.938000  0.975000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  2.938000  0.975000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  2.938000  0.325000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position  2.938000 -0.325000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position  2.938000 -0.975000  size  1.475000  0.450000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q1
+
+$MODULE Q2
+footprint iO_Atletehe_rev1:SOT23-3
+attribut virtual
+position 164.001100 87.503600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.000000 -1.100000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q2
+
+$MODULE Q3
+footprint iO_Atletehe_rev1:SOT23-3
+attribut virtual
+position 171.501100 102.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.950000  1.000000  size  0.800000  0.900000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.950000  1.000000  size  0.800000  0.900000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.000000 -1.100000  size  0.800000  0.900000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q3
+
+$MODULE Q4
+footprint iO_Atletehe_rev1:SOT23-3
+attribut virtual
+position 134.501100 123.503600  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.000000 -1.100000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q4
+
+$MODULE Q5
+footprint iO_Atletehe_rev1:SOT23-3
+attribut virtual
+position 125.501100 103.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.950000  1.000000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.000000 -1.100000  size  0.800000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q5
+
+$MODULE R1
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 163.001100 120.003600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE R2
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 180.751100 122.253600  orientation 67.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE R3
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 183.001100 117.003600  orientation -112.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE R4
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 157.501100 100.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE R5
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 161.001100 96.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE R6
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 143.501100 116.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE R7
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 183.001100 93.503600  orientation -67.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE R8
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 147.501100 118.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R8
+
+$MODULE R9
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 147.501100 116.003600  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R9
+
+$MODULE R10
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 168.501100 102.003600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE R11
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 128.501100 102.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R11
+
+$MODULE R12
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 168.501100 107.503600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R12
+
+$MODULE R13
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 128.501100 108.003600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R13
+
+$MODULE R14
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 153.501100 75.503600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R14
+
+$MODULE R15
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 165.001100 80.003600  orientation 67.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R15
+
+$MODULE R16
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 172.751100 87.503600  orientation 45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R16
+
+$MODULE R17
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 177.751100 97.503600  orientation 22.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R17
+
+$MODULE R18
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 178.251100 109.753600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R18
+
+$MODULE R19
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 173.751100 121.503600  orientation -22.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R19
+
+$MODULE R20
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 166.001100 129.253600  orientation -45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R20
+
+$MODULE R21
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 156.001100 134.003600  orientation -67.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R21
+
+$MODULE R22
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 143.501100 134.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R22
+
+$MODULE R23
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 132.001100 130.253600  orientation -112.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R23
+
+$MODULE R24
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 124.001100 122.503600  orientation -135.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R24
+
+$MODULE R25
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 119.001100 112.253600  orientation -157.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R25
+
+$MODULE R26
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 119.001100 99.753600  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R26
+
+$MODULE R27
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 123.501100 88.753600  orientation 157.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R27
+
+$MODULE R28
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 131.001100 80.503600  orientation 135.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R28
+
+$MODULE R29
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 141.001100 75.753600  orientation 112.50
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R29
+
+$MODULE R30
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 163.001100 91.503600  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R30
+
+$MODULE R31
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 171.501100 106.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R31
+
+$MODULE R32
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 138.001100 123.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R32
+
+$MODULE R33
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 125.501100 106.003600  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R33
+
+$MODULE R34
+footprint iO_Atletehe_rev1:0603
+attribut virtual
+position 171.754800 98.348800  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  1.100000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R34
+
+$MODULE RED0
+footprint iO_Atletehe_rev1:LED-0603
+attribut virtual
+position 185.001100 118.003600  orientation 67.50
+layer front
+$PAD "A"
+Shape Roundrect Layer front
+position -0.877000  0.000000  size  1.000000  1.000000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C"
+Shape Roundrect Layer front
+position  0.877000  0.000000  size  1.000000  1.000000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  RED0
+
+$MODULE RST0
+footprint iO_Atletehe_rev1:SMT-JUMPER_2_NO_NO-SILK_ROUND
+attribut virtual
+position 139.501100 114.003600  orientation 180.00
+layer front
+$PAD "1"
+Shape Roundrect Layer front
+position -1.270000  0.000000  size  0.304800  0.152400  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer front
+position  1.270000  0.000000  size  0.304800  0.152400  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  RST0
+
+$MODULE S1
+footprint iO_Atletehe_rev1:SK12D07VG4NSPA
+attribut virtual
+position 185.501100 103.003600  orientation -90.00
+layer back
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.300000  1.300000  orientation 360.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.000000  0.000000  size  1.300000  1.300000  orientation 360.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  4.000000  0.000000  size  1.300000  1.300000  orientation 360.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MH1"
+Shape Circle Layer both
+position -2.100000  0.000000  size  1.875000  1.875000  orientation 360.00
+drill  1.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MH2"
+Shape Circle Layer both
+position  6.100000  0.000000  size  1.875000  1.875000  orientation 360.00
+drill  1.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S1
+
+$MODULE U$1
+footprint iO_Atletehe_rev1:SOT223
+attribut virtual
+position 134.501100 116.503600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.311400  3.098800  size  1.219200  2.235200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  3.098800  size  1.219200  2.235200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  2.311400  3.098800  size  1.219200  2.235200  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  0.000000 -3.099000  size  3.600000  2.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U$1
+
+$MODULE U$2
+footprint iO_Atletehe_rev1:NRF24MINI
+attribut virtual
+position 153.001100 98.003600  orientation 90.00
+layer front
+$PAD "3V3"
+Shape Rect Layer front
+position  0.000000 -8.890000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "CE"
+Shape Rect Layer front
+position  0.000000 -6.350000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "CSN"
+Shape Rect Layer front
+position  0.000000 -5.080000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "GND"
+Shape Rect Layer front
+position  0.000000 -7.620000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "GND2"
+Shape Rect Layer both
+position 10.625000  0.625000  size  1.308000  1.308000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "IRQ"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MISO"
+Shape Rect Layer front
+position  0.000000 -1.270000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MOSI"
+Shape Rect Layer front
+position  0.000000 -2.540000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "SCK"
+Shape Rect Layer front
+position  0.000000 -3.810000  size  1.676400  0.812800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U$2
+
+$MODULE U1
+footprint iO_Atletehe_rev1:TQFP32-08
+attribut virtual
+position 144.501100 107.003600  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -4.292600 -2.800000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -4.292600 -2.000000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -4.292600 -1.200000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -4.292600 -0.400000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -4.292600  0.400000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position -4.292600  1.200000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position -4.292600  2.000000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position -4.292600  2.800000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position -2.800000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer front
+position -2.000000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer front
+position -1.200000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer front
+position -0.400000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer front
+position  0.400000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer front
+position  1.200000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer front
+position  2.000000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer front
+position  2.800000  4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer front
+position  4.292600  2.800000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer front
+position  4.292600  2.000000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer front
+position  4.292600  1.200000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer front
+position  4.292600  0.400000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Rect Layer front
+position  4.292600 -0.400000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Rect Layer front
+position  4.292600 -1.200000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Rect Layer front
+position  4.292600 -2.000000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Rect Layer front
+position  4.292600 -2.800000  size  1.270000  0.558800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Rect Layer front
+position  2.800000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Rect Layer front
+position  2.000000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Rect Layer front
+position  1.200000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Rect Layer front
+position  0.400000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Rect Layer front
+position -0.400000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Rect Layer front
+position -1.200000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Rect Layer front
+position -2.000000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Rect Layer front
+position -2.800000 -4.292600  size  0.558800  1.270000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE U2
+footprint iO_Atletehe_rev1:SOT95P280X145-6N
+attribut virtual
+position 152.001100 117.003600  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -1.250000 -0.950000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.250000  0.000000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -1.250000  0.950000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  1.250000  0.950000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  1.250000  0.000000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  1.250000 -0.950000  size  1.200000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$MODULE Y1
+footprint iO_Atletehe_rev1:HC49UP
+attribut virtual
+position 157.001100 109.503600  orientation -90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -4.826000  0.000000  size  5.334000  1.930400  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  4.826000  0.000000  size  5.334000  1.930400  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Y1
+
+$EndDESCRIPTION

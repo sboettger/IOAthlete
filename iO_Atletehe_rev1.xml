@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/Sebastian/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projekte/kicad/projekte/IOAthlete/iO_Atletehe_rev1/iO_Atletehe_rev1.kicad_sch</source>
+    <date>2022 November 18, Friday 20:32:43</date>
+    <tool>Eeschema (6.0.4-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>iO_Atletehe_rev1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BLUE0">
+      <value>LED0603</value>
+      <footprint>iO_Atletehe_rev1:LED-0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12262b15-af49-40c6-bc41-c406d62a8dd8</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>BATTERY1100</value>
+      <footprint>iO_Atletehe_rev1:LIPO-1100MAH</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="BATTERY1100" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e65544b9-f95d-46a2-b404-f6230c201652</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea236c2c-22f7-403e-b2f4-06c6ee33e83a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e287b94-79b0-4e8f-979f-49da3fddff7e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e18c937-2438-49b8-95e7-eea255aa0efb</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>877ee435-e5a7-4fb0-b691-bf5cea4fa97c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cfbf1a2-4ce9-4558-b578-f5ba8e446e0f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a98e9acc-303e-4ed5-9399-ac47cd4e020e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac920f33-a13d-4674-8247-5663f541b13e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33350894-9c56-4b7d-85f8-b98575f8dbc1</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>22pF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="22PF-0603-50V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff02f24f-d0f6-45c3-8769-762ef0fd5262</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>22pF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="22PF-0603-50V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73a68dc7-8ca7-49ea-b153-b92f72797ca8</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>969a92ae-25d5-4d7d-9e86-53a15c209495</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c46ff8-2342-4a0a-9f1f-103ed8a51676</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07baaf2f-e443-4828-bec6-520c974bde25</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS14-E3_61T</value>
+      <footprint>iO_Atletehe_rev1:DIOM5127X229N</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="SS14-E3_61T" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0e2c28a-d23c-406a-936c-37d3d7a61459</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66d84396-77d7-4f43-a568-4bc209ae0016</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b80181ca-74ed-480c-8e5b-e580dfd36dc4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf96b8c4-a05f-47ad-8b21-121e585f8b73</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f74d155f-2ae1-42cb-b700-39fa58b21661</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b6dd868-c8e4-4da8-b01c-57f0c557188f</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87703311-1681-42a0-a543-bf989caaa8e9</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08e93381-5226-47f7-ab31-06b19b420bcf</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28edf8b9-437d-4303-8554-ccd8abf9d40e</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdaabea4-7f9b-4447-9145-186ec6a1dfd2</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f2b2731-0766-4fd6-bc90-7d062e8b34d7</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c825d5e-6066-4608-9cb1-1fc9d1152d16</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83e85f73-b7db-4849-870d-9adfa952493c</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a531cc-497d-4c03-93d8-9b685509aba5</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abd9c79d-9499-408a-bbdf-1410778399fc</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66408160-3267-4312-aa56-8f00a4375e8a</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED5MM</value>
+      <footprint>iO_Atletehe_rev1:LED_5MM</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED5MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19f8cbfa-139d-496d-b6a3-cebb419d38fc</tstamps>
+    </comp>
+    <comp ref="GREEN0">
+      <value>LED0603</value>
+      <footprint>iO_Atletehe_rev1:LED-0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8236e7d-199c-48bd-8365-a894523c5743</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TP4056</value>
+      <footprint>iO_Atletehe_rev1:SOIC127P600X175-9N</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TP4056" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db0ccadb-e97e-4947-b977-7019ffd20650</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>FS312F-G</value>
+      <footprint>iO_Atletehe_rev1:SOT95P280X145-6N</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="FS312F-G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4ec49e-b5cd-4c84-96b0-4a8bd8d92462</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>TCRT5000L</value>
+      <footprint>iO_Atletehe_rev1:TCRT5000L</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TCRT5000L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1be6632-5054-413f-9a9b-dc8f1ed2112b</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>TCRT5000L</value>
+      <footprint>iO_Atletehe_rev1:TCRT5000L</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TCRT5000L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>602d2a65-0a4a-4022-b15c-74ddfe960139</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_MICRO-B_FEMALE-SMT</value>
+      <footprint>iO_Atletehe_rev1:USB-B-MICRO-SMD</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="USB_MICRO-B_FEMALE-SMT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>108df981-c76f-4627-a37f-dcd4d777e07b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>6_PIN_SERIAL_TARGETPTH-KIT</value>
+      <footprint>iO_Atletehe_rev1:1X06-KIT</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="6_PIN_SERIAL_TARGETPTH-KIT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91549388-e794-451a-aa14-1d5618aa82ad</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>AVR-ISP-6</value>
+      <footprint>kicad_footprints_sb:AVR-ISP-6</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13119ad3-0c14-46a2-86be-3059992e36fb</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>22µH/±20%/1.4A</value>
+      <footprint>iO_Atletehe_rev1:SRN6045</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="INDUCTOR-SRN6045-33UH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a89a687-7f1e-48a2-a036-af1b7d525831</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>FS8205A</value>
+      <footprint>iO_Atletehe_rev1:SOP65P640X120-8N</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="FS8205A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b24ef04f-e4c3-4f68-9117-23242fd406e1</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>500mA/300V</value>
+      <footprint>iO_Atletehe_rev1:SOT23-3</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TRANS_NPN-MMBTA42" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61572ad7-8bcf-414a-a33e-5caa76f128bd</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>500mA/300V</value>
+      <footprint>iO_Atletehe_rev1:SOT23-3</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TRANS_NPN-MMBTA42" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fe1fdbf-f325-4f3a-b388-44a1858d5bee</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>500mA/300V</value>
+      <footprint>iO_Atletehe_rev1:SOT23-3</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TRANS_NPN-MMBTA42" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d892549f-1cca-47cf-8c3e-da0b9ac8da38</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>500mA/300V</value>
+      <footprint>iO_Atletehe_rev1:SOT23-3</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="TRANS_NPN-MMBTA42" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09465e66-ac38-45b1-a904-56d2c97dff4a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5bc0aaf-2932-472a-9bc5-f7a4eb0a6cb7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ed7b322-d8cf-42d6-8e3a-dff45c3505ea</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>388ba3ed-e5bb-452a-999e-a16d210d1686</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a10303f5-7ed7-4cdd-a948-86e0d254604d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f794d33d-fca8-4b36-85b3-5433f4e2c1e5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3215de92-2c3b-423c-9543-c071d7a0ff1b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>422cf55b-e48b-45d5-90b1-b8330cde5db8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e9a2e0-ed0c-4113-bed7-4db8dabdd670</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>7.5k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32de2bc0-6c72-439f-97f3-c947d1bbebaa</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf7e4cc8-e8bd-4401-b38f-0060f03a32cf</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a585d915-06e0-496a-8f5e-24ba7190b308</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3887d27a-9821-416a-be47-6dc1a556a28a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9fb73a1-1ab9-4570-9a0e-c78694cd6cfa</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03050117-2061-4b9d-be79-939564989f36</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>028547af-6538-4f4a-b4ab-061aec8e66eb</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84e22ff5-2166-42c2-a2b4-d2a358c590a1</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fd689c4-986f-4439-9772-f4548114199b</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9f6f1cb-7df9-4942-87a1-cb873300c804</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82f7bc6b-5cf7-42f7-aff0-e3111c61fa1f</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc0300a5-179d-411e-bae4-865c7e5b7be4</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2b24307-617e-4bc3-89c8-2c8587789262</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e8bb311-fa07-4ba8-a6a5-a0361522e80a</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>034bab55-cd84-4480-aac6-a8e254353430</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e43cc903-3421-43b4-ae1a-ea462e6e315e</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acb37ccc-72a0-4b40-9f37-ea9508cc37d3</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe430f5d-7f52-4863-9f09-10dadf314c18</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09a1f090-99e4-47bc-b7fa-2bbd0ada189d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9669b744-33f1-4554-9e38-25499cc23726</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>27</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afa4635b-faf2-4245-a41d-076239d930b6</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="1KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7ef086a-5c87-4fac-a94b-ad4dc5426a72</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="1KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>323b0c2b-8c53-45b7-8ef2-7c521780e8a4</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="1KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef6f5c7-2e68-4b0d-9426-33e3df7a6c7e</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="1KOHM-0603-1{slash}10W-1%" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be3e59ec-ca99-4fa7-9def-af3927d6093b</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>iO_Atletehe_rev1:0603</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a452148e-17b7-4da7-8267-d40f06aceb9f</tstamps>
+    </comp>
+    <comp ref="RED0">
+      <value>LED0603</value>
+      <footprint>iO_Atletehe_rev1:LED-0603</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="LED0603" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d955f24-0746-4b6a-8c50-7e4031b11026</tstamps>
+    </comp>
+    <comp ref="RST0">
+      <value>JUMPER-SMT_2_NO_NO-SILK_ROUND</value>
+      <footprint>iO_Atletehe_rev1:SMT-JUMPER_2_NO_NO-SILK_ROUND</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="JUMPER-SMT_2_NO_NO-SILK_ROUND" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0008686b-101c-4092-8773-11c5b4af62c0</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>SK12D07VG4NSPA</value>
+      <footprint>iO_Atletehe_rev1:SK12D07VG4NSPA</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="SK12D07VG4NSPA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80c713cb-d473-4628-bcfd-f56ec0b84dd3</tstamps>
+    </comp>
+    <comp ref="U$1">
+      <value>V_REG_LD1117V 3.3v</value>
+      <footprint>iO_Atletehe_rev1:SOT223</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="V_REG_LD1117VXXLD1117-SMD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80afbcad-9187-4125-9e57-0c454bf2f130</tstamps>
+    </comp>
+    <comp ref="U$2">
+      <value>NRF24MINI</value>
+      <footprint>iO_Atletehe_rev1:NRF24MINI</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="NRF24MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1a2a4db-32f0-46a2-8e44-db366ed945ff</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATMEGA328P_TQFP</value>
+      <footprint>iO_Atletehe_rev1:TQFP32-08</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="ATMEGA328P_TQFP" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>878d03ab-94cc-4ec3-9b0e-0c587d7c0566</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MT3608</value>
+      <footprint>iO_Atletehe_rev1:SOT95P280X145-6N</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="MT3608" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bf867f2-428a-4b07-b8f1-dcfcfd52e3e8</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>CRYSTALSMD-HC49UP</value>
+      <footprint>iO_Atletehe_rev1:HC49UP</footprint>
+      <libsource lib="iO_Atletehe_rev1-eagle-import" part="CRYSTALSMD-HC49UP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="iO_Atletehe_rev1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20c4d512-9f40-49cf-b58e-da0659779ea0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AVR-ISP-6">
+      <description>Atmel 6-pin ISP connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>IDC?Header*2x03*</fp>
+        <fp>Pin?Header*2x03*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR-ISP-6</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MISO" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="~{RST}" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="0.1UF-0603-25V-5%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1UF-0603-25V-5%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="10KOHM-0603-1{slash}10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10KOHM-0603-1{slash}10W-1%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="10UF-0603-6.3V-20%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">10UF-0603-6.3V-20%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="1KOHM-0603-1{slash}10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1KOHM-0603-1{slash}10W-1%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="22PF-0603-50V-5%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">22PF-0603-50V-5%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="27OHM-0603-1{slash}10W-1%">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">27OHM-0603-1{slash}10W-1%</field>
+        <field name="Footprint">iO_Atletehe_rev1:0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="6_PIN_SERIAL_TARGETPTH-KIT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6_PIN_SERIAL_TARGETPTH-KIT</field>
+        <field name="Footprint">iO_Atletehe_rev1:1X06-KIT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DTR" type="passive"/>
+        <pin num="2" name="RXI" type="passive"/>
+        <pin num="3" name="TXO" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+        <pin num="5" name="CTS" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="ATMEGA328P_TQFP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA328P_TQFP</field>
+        <field name="Footprint">iO_Atletehe_rev1:TQFP32-08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PD3(INT1)" type="bidirectional"/>
+        <pin num="2" name="PD4(XCK/T0)" type="bidirectional"/>
+        <pin num="3" name="GND" type="bidirectional"/>
+        <pin num="4" name="VCC" type="bidirectional"/>
+        <pin num="5" name="GND" type="bidirectional"/>
+        <pin num="6" name="VCC" type="bidirectional"/>
+        <pin num="7" name="PB6(XTAL1/TOSC1)" type="bidirectional"/>
+        <pin num="8" name="PB7(XTAL2/TOSC2)" type="bidirectional"/>
+        <pin num="9" name="PD5(T1)" type="bidirectional"/>
+        <pin num="10" name="PD6(AIN0)" type="bidirectional"/>
+        <pin num="11" name="PD7(AIN1)" type="bidirectional"/>
+        <pin num="12" name="PB0(ICP)" type="bidirectional"/>
+        <pin num="13" name="PB1(OC1A)" type="bidirectional"/>
+        <pin num="14" name="PB2(SS/OC1B)" type="bidirectional"/>
+        <pin num="15" name="PB3(MOSI/OC2)" type="bidirectional"/>
+        <pin num="16" name="PB4(MISO)" type="bidirectional"/>
+        <pin num="17" name="PB5(SCK)" type="bidirectional"/>
+        <pin num="18" name="AVCC" type="bidirectional"/>
+        <pin num="19" name="ADC6" type="bidirectional"/>
+        <pin num="20" name="AREF" type="bidirectional"/>
+        <pin num="21" name="AGND" type="bidirectional"/>
+        <pin num="22" name="ADC7" type="bidirectional"/>
+        <pin num="23" name="PC0(ADC0)" type="bidirectional"/>
+        <pin num="24" name="PC1(ADC1)" type="bidirectional"/>
+        <pin num="25" name="PC2(ADC2)" type="bidirectional"/>
+        <pin num="26" name="PC3(ADC3)" type="bidirectional"/>
+        <pin num="27" name="PC4(ADC4/SDA)" type="bidirectional"/>
+        <pin num="28" name="PC5(ADC5/SCL)" type="bidirectional"/>
+        <pin num="29" name="PC6(/RESET)" type="bidirectional"/>
+        <pin num="30" name="PD0(RXD)" type="bidirectional"/>
+        <pin num="31" name="PD1(TXD)" type="bidirectional"/>
+        <pin num="32" name="PD2(INT0)" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="BATTERY1100">
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">BATTERY1100</field>
+        <field name="Footprint">iO_Atletehe_rev1:LIPO-1100MAH</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="power_in"/>
+        <pin num="-" name="-" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="CRYSTALSMD-HC49UP">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">CRYSTALSMD-HC49UP</field>
+        <field name="Footprint">iO_Atletehe_rev1:HC49UP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="FS312F-G">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">FS312F-G</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOT95P280X145-6N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OD" type="bidirectional"/>
+        <pin num="2" name="CS" type="bidirectional"/>
+        <pin num="3" name="OC" type="bidirectional"/>
+        <pin num="4" name="TD" type="bidirectional"/>
+        <pin num="5" name="VCC" type="bidirectional"/>
+        <pin num="6" name="GND" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="FS8205A">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FS8205A</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOP65P640X120-8N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D12_1" type="bidirectional"/>
+        <pin num="2" name="S1_1" type="bidirectional"/>
+        <pin num="3" name="S1_2" type="bidirectional"/>
+        <pin num="4" name="G1" type="bidirectional"/>
+        <pin num="5" name="G2" type="bidirectional"/>
+        <pin num="6" name="S2_1" type="bidirectional"/>
+        <pin num="7" name="S2_2" type="bidirectional"/>
+        <pin num="8" name="D12_2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="INDUCTOR-SRN6045-33UH">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR-SRN6045-33UH</field>
+        <field name="Footprint">iO_Atletehe_rev1:SRN6045</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="JUMPER-SMT_2_NO_NO-SILK_ROUND">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER-SMT_2_NO_NO-SILK_ROUND</field>
+        <field name="Footprint">iO_Atletehe_rev1:SMT-JUMPER_2_NO_NO-SILK_ROUND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="LED0603">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED0603</field>
+        <field name="Footprint">iO_Atletehe_rev1:LED-0603</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="LED5MM">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED5MM</field>
+        <field name="Footprint">iO_Atletehe_rev1:LED_5MM</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="K" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="MT3608">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MT3608</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOT95P280X145-6N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="bidirectional"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="3" name="FB" type="bidirectional"/>
+        <pin num="4" name="EN" type="bidirectional"/>
+        <pin num="5" name="IN" type="bidirectional"/>
+        <pin num="6" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="NRF24MINI">
+      <fields>
+        <field name="Value">NRF24MINI</field>
+        <field name="Footprint">iO_Atletehe_rev1:NRF24MINI</field>
+      </fields>
+      <pins>
+        <pin num="3V3" name="3.3V" type="bidirectional"/>
+        <pin num="CE" name="CE" type="bidirectional"/>
+        <pin num="CSN" name="CSN" type="bidirectional"/>
+        <pin num="GND" name="GND" type="bidirectional"/>
+        <pin num="GND2" name="GND2" type="bidirectional"/>
+        <pin num="IRQ" name="IRQ" type="bidirectional"/>
+        <pin num="MISO" name="MISO" type="bidirectional"/>
+        <pin num="MOSI" name="MOSI" type="bidirectional"/>
+        <pin num="SCK" name="SCK" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="SK12D07VG4NSPA">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">SK12D07VG4NSPA</field>
+        <field name="Footprint">iO_Atletehe_rev1:SK12D07VG4NSPA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="MH1" name="MH1" type="bidirectional"/>
+        <pin num="MH2" name="MH2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="SS14-E3_61T">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SS14-E3_61T</field>
+        <field name="Footprint">iO_Atletehe_rev1:DIOM5127X229N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="bidirectional"/>
+        <pin num="2" name="A" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="TCRT5000L">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TCRT5000L</field>
+        <field name="Footprint">iO_Atletehe_rev1:TCRT5000L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COLLECTOR" type="bidirectional"/>
+        <pin num="2" name="EMITTER" type="bidirectional"/>
+        <pin num="3" name="CATHODE" type="bidirectional"/>
+        <pin num="4" name="ANODE" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="TP4056">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TP4056</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOIC127P600X175-9N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP1" type="bidirectional"/>
+        <pin num="2" name="PROG2" type="bidirectional"/>
+        <pin num="3" name="GND_3" type="bidirectional"/>
+        <pin num="4" name="VCC4" type="bidirectional"/>
+        <pin num="5" name="BAT" type="bidirectional"/>
+        <pin num="6" name="~{STDBY}" type="bidirectional"/>
+        <pin num="7" name="~{CHRG}" type="bidirectional"/>
+        <pin num="8" name="CE" type="bidirectional"/>
+        <pin num="9" name="EP" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="TRANS_NPN-MMBTA42">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TRANS_NPN-MMBTA42</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOT23-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="USB_MICRO-B_FEMALE-SMT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_MICRO-B_FEMALE-SMT</field>
+        <field name="Footprint">iO_Atletehe_rev1:USB-B-MICRO-SMD</field>
+      </fields>
+      <pins>
+        <pin num="D+" name="D+" type="bidirectional"/>
+        <pin num="D-" name="D-" type="bidirectional"/>
+        <pin num="GND" name="GND" type="power_in"/>
+        <pin num="ID" name="ID" type="bidirectional"/>
+        <pin num="SHIELD1" name="SHIELD" type="bidirectional"/>
+        <pin num="SHIELD2" name="SHIELD" type="bidirectional"/>
+        <pin num="SHIELD3" name="SHIELD" type="bidirectional"/>
+        <pin num="VBUS" name="VBUS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="iO_Atletehe_rev1-eagle-import" part="V_REG_LD1117VXXLD1117-SMD">
+      <fields>
+        <field name="Value">V_REG_LD1117VXXLD1117-SMD</field>
+        <field name="Footprint">iO_Atletehe_rev1:SOT223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="OUT" type="passive"/>
+        <pin num="3" name="IN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="iO_Atletehe_rev1-eagle-import">
+      <uri>/Users/Sebastian/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projekte/kicad/projekte/IOAthlete/iO_Atletehe_rev1/iO_Atletehe_rev1-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/A0">
+      <node ref="U1" pin="23" pinfunction="PC0(ADC0)" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/A1">
+      <node ref="IC4" pin="2" pinfunction="EMITTER" pintype="bidirectional"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="PC1(ADC1)" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/A2">
+      <node ref="IC3" pin="2" pinfunction="EMITTER" pintype="bidirectional"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="PC2(ADC2)" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/A3">
+      <node ref="U1" pin="26" pinfunction="PC3(ADC3)" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/A6">
+      <node ref="U1" pin="19" pinfunction="ADC6" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/A7">
+      <node ref="U1" pin="22" pinfunction="ADC7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/AREF">
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AREF" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/D2">
+      <node ref="R30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PD2(INT0)" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/D3">
+      <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PD3(INT1)" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/D4">
+      <node ref="IC4" pin="4" pinfunction="ANODE" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="PD4(XCK/T0)" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/D5">
+      <node ref="IC3" pin="4" pinfunction="ANODE" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="PD5(T1)" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/D6">
+      <node ref="R32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PD6(AIN0)" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/D7">
+      <node ref="U$2" pin="CE" pinfunction="CE" pintype="bidirectional"/>
+      <node ref="U1" pin="11" pinfunction="PD7(AIN1)" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/D8">
+      <node ref="R33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB0(ICP)" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/D9">
+      <node ref="U1" pin="13" pinfunction="PB1(OC1A)" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/D10">
+      <node ref="U$2" pin="CSN" pinfunction="CSN" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="PB2(SS/OC1B)" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/D11">
+      <node ref="J3" pin="4" pinfunction="MOSI" pintype="passive"/>
+      <node ref="U$2" pin="MOSI" pinfunction="MOSI" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="PB3(MOSI/OC2)" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/D12">
+      <node ref="J3" pin="1" pinfunction="MISO" pintype="passive"/>
+      <node ref="U$2" pin="MISO" pinfunction="MISO" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="PB4(MISO)" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/D13">
+      <node ref="J3" pin="3" pinfunction="SCK" pintype="passive"/>
+      <node ref="U$2" pin="SCK" pinfunction="SCK" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="PB5(SCK)" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/OD">
+      <node ref="IC2" pin="1" pinfunction="OD" pintype="bidirectional"/>
+      <node ref="Q1" pin="4" pinfunction="G1" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/RESET">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="~{RST}" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RST0" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PC6(/RESET)" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/RESET_CAP">
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="D-" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J2" pin="1" pinfunction="DTR" pintype="passive"/>
+    </net>
+    <net code="23" name="/RXD">
+      <node ref="J1" pin="ID" pinfunction="ID" pintype="bidirectional"/>
+      <node ref="J2" pin="2" pinfunction="RXI" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PD0(RXD)" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/SCL">
+      <node ref="U1" pin="28" pinfunction="PC5(ADC5/SCL)" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/SDA">
+      <node ref="U1" pin="27" pinfunction="PC4(ADC4/SDA)" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/TXD">
+      <node ref="J1" pin="D+" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J2" pin="3" pinfunction="TXO" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PD1(TXD)" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="3.3V">
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$1" pin="2" pinfunction="OUT" pintype="passive"/>
+      <node ref="U$2" pin="3V3" pinfunction="3.3V" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="5V">
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="IC3" pin="1" pinfunction="COLLECTOR" pintype="bidirectional"/>
+      <node ref="IC4" pin="1" pinfunction="COLLECTOR" pintype="bidirectional"/>
+      <node ref="J2" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="VCC" pintype="passive"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U$1" pin="3" pinfunction="IN" pintype="input"/>
+      <node ref="U1" pin="18" pinfunction="AVCC" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="VCC" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="GND">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="TEMP1" pintype="bidirectional"/>
+      <node ref="IC1" pin="3" pinfunction="GND_3" pintype="bidirectional"/>
+      <node ref="J1" pin="GND" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="Q1" pin="6" pinfunction="S2_1" pintype="bidirectional"/>
+      <node ref="Q1" pin="7" pinfunction="S2_2" pintype="bidirectional"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RST0" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U$1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U$2" pin="GND" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="21" pinfunction="AGND" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="GND-ISO">
+      <node ref="BT2" pin="-" pinfunction="-" pintype="power_in"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC2" pin="6" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="Q1" pin="2" pinfunction="S1_1" pintype="bidirectional"/>
+      <node ref="Q1" pin="3" pinfunction="S1_2" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(BLUE0-PadA)">
+      <node ref="BLUE0" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="EN" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="IN" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(BLUE0-PadC)">
+      <node ref="BLUE0" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="PB6(XTAL1/TOSC1)" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="PB7(XTAL2/TOSC2)" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(D2-PadA)">
+      <node ref="D2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D2-PadK)">
+      <node ref="D2" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D3" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D4" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D5" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3-PadA)">
+      <node ref="D3" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D4-PadA)">
+      <node ref="D4" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D5-PadA)">
+      <node ref="D5" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D6-PadA)">
+      <node ref="D6" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D6-PadK)">
+      <node ref="D6" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D7" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D8" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D9" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D7-PadA)">
+      <node ref="D7" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D8-PadA)">
+      <node ref="D8" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D9-PadA)">
+      <node ref="D9" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D10-PadA)">
+      <node ref="D10" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D10-PadK)">
+      <node ref="D10" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D11" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D12" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D13" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D11-PadA)">
+      <node ref="D11" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D12-PadA)">
+      <node ref="D12" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D13-PadA)">
+      <node ref="D13" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D14-PadA)">
+      <node ref="D14" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D14-PadK)">
+      <node ref="D14" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D15" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D16" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="D17" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D15-PadA)">
+      <node ref="D15" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D16-PadA)">
+      <node ref="D16" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D17-PadA)">
+      <node ref="D17" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(GREEN0-PadC)">
+      <node ref="GREEN0" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="PROG2" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="~{STDBY}" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="~{CHRG}" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(IC2-Pad2)">
+      <node ref="IC2" pin="2" pinfunction="CS" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(IC2-Pad3)">
+      <node ref="IC2" pin="3" pinfunction="OC" pintype="bidirectional"/>
+      <node ref="Q1" pin="5" pinfunction="G2" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(IC3-Pad3)">
+      <node ref="IC3" pin="3" pinfunction="CATHODE" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(IC4-Pad3)">
+      <node ref="IC4" pin="3" pinfunction="CATHODE" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J1-PadSHIELD1)">
+      <node ref="J1" pin="SHIELD1" pinfunction="SHIELD" pintype="bidirectional"/>
+      <node ref="J1" pin="SHIELD2" pinfunction="SHIELD" pintype="bidirectional"/>
+      <node ref="J1" pin="SHIELD3" pinfunction="SHIELD" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RED0" pin="C" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="FB" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="VIN">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="GREEN0" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="VCC4" pintype="bidirectional"/>
+      <node ref="IC1" pin="8" pinfunction="CE" pintype="bidirectional"/>
+      <node ref="J1" pin="VBUS" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="RED0" pin="A" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="73" name="V_BATT">
+      <node ref="BT2" pin="+" pinfunction="+" pintype="power_in"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="BAT" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="unconnected-(IC1-Pad9)">
+      <node ref="IC1" pin="9" pinfunction="EP" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(IC2-Pad4)">
+      <node ref="IC2" pin="4" pinfunction="TD" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="CTS" pintype="passive"/>
+    </net>
+    <net code="77" name="unconnected-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="D12_1" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="unconnected-(Q1-Pad8)">
+      <node ref="Q1" pin="8" pinfunction="D12_2" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="unconnected-(S1-Pad3)">
+      <node ref="S1" pin="3" pinfunction="3" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(S1-PadMH1)">
+      <node ref="S1" pin="MH1" pinfunction="MH1" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(S1-PadMH2)">
+      <node ref="S1" pin="MH2" pinfunction="MH2" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U$2-PadGND2)">
+      <node ref="U$2" pin="GND2" pinfunction="GND2" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U$2-PadIRQ)">
+      <node ref="U$2" pin="IRQ" pinfunction="IRQ" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

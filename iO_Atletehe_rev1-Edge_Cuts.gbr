@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4-0)*%
+%TF.CreationDate,2022-11-18T01:13:13+01:00*%
+%TF.ProjectId,iO_Atletehe_rev1,694f5f41-746c-4657-9465-68655f726576,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4-0)) date 2022-11-18 01:13:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X191016476Y-105105200D02*
+G75*
+G03*
+X191016476Y-105105200I-42782076J0D01*
+G01*
+M02*
